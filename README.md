@@ -1,7 +1,6 @@
 # hackillinois2023
 Machine learning workshop - Chicago crash data
 
-* **Goal:** Reduce crashes that lead to injuries or fatalities in Chicago.
 * **Objective:** Predict crashes that lead to injury or fatalities. 
 * **Secondary Objective:** What are the top contributing factors the lead to crashes with injuries?
 
